@@ -1,0 +1,11 @@
+.hidden-block{
+    font-size: 44px;
+    display: none;
+    text-align: center;
+}
+#user_progress{
+    width: 500px;
+    height: 30px;
+    display: block;
+    margin: 0 auto;
+}
